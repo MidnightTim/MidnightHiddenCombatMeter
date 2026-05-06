@@ -1,0 +1,9 @@
+## Interface: 120000
+## Title: Midnight Hidden Combat Meter
+## Notes: Hides the default Midnight (12.0) combat meters during combat and marks them NonInteractive. Shows them again out of combat.
+## Author: Midnight_Tim
+## Version: 1.0.0
+## DefaultState: Enabled
+## LoadOnDemand: 0
+
+MidnightHiddenCombatMeter.lua
